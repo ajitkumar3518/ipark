@@ -1,0 +1,6 @@
+com\ipark\controller\VehicleController.class
+com\ipark\domain\service\VehicleService.class
+com\ipark\Application.class
+com\ipark\domain\entity\Vehicle.class
+com\ipark\domain\repository\VehicleRepository.class
+com\ipark\infrastructure\persistance\HibernateVehicleRepository.class

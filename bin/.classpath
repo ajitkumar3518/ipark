@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot"/>
+			<attribute name="maven.version" value="2.0.5.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.5.RELEASE/spring-boot-autoconfigure-2.0.5.RELEASE.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot-autoconfigure"/>
+			<attribute name="maven.version" value="2.0.5.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="mysql"/>
+			<attribute name="maven.artifactId" value="mysql-connector-java"/>
+			<attribute name="maven.version" value="8.0.13"/>
+			<attribute name="maven.scope" value="runtime"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
